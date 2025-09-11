@@ -68,7 +68,7 @@ question = "What are the early symptoms of diabetes?"
 *Gradio interface showing healthcare Q&A*
 
 ### Running the Demo
-1. Open the Colab notebook: [Open in Colab]([[your-colab-link-here](https://colab.research.google.com/drive/1ZuJENQ_vf7sf--0owTfBXats8glx8ODb?usp=sharing)]
+1. Open the Colab notebook: [Open in Colab]([[click-here](https://colab.research.google.com/drive/1ZuJENQ_vf7sf--0owTfBXats8glx8ODb?usp=sharing)]
 2. Go to the **Runtime → Run all** menu (or run the Gradio cell manually).
 3. After the Gradio cell runs, click the public URL shown in the output to open the demo.
 
