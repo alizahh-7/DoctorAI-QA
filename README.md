@@ -1,17 +1,8 @@
 # DoctorAI-QA
 MedGPT-HealthQ is a GPT-OSS model fine-tuned on a medical dataset using LoRA and Unsloth, providing fast, reasoning-based answers to healthcare questions. Supports interactive testing via Colab or Gradio; intended for educational and demo purposes.
 
----
-base_model: unsloth/gpt-oss-20b-unsloth-bnb-4bit
-tags:
-- text-generation-inference
-- transformers
-- unsloth
-- gpt_oss
-- trl
-license: apache-2.0
-language:
-- en
+![Healthcare QA Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdjMzl2b3h5eHlxOWF4enZrMW02YjhucjI3cHdzODAwMG1pYmRudyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif)
+
 ---
 
 # 🩺 DoctorAI-QA
