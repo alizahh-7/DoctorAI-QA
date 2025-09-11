@@ -55,7 +55,7 @@ Run an interactive demo directly in **Colab** or via **Gradio**:
 ## 🧪 Testing Instructions
 
 ### Option 1: Colab
-1. Open this notebook: `[Insert Colab Notebook Link Here]`  
+1. Open this notebook: `https://colab.research.google.com/drive/1TmDW-97wcgGfdKC0EK-t1f0U05yhaHOx?usp=sharing#scrollTo=QmUBVEnvCDJv`  
 2. Replace the prompt in the code with your own healthcare question. Example:  
 ```python
 question = "What are the early symptoms of diabetes?"
