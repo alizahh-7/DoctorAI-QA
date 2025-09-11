@@ -14,7 +14,7 @@ language:
 - en
 ---
 
-# 🩺 MedGPT-HealthQ
+# 🩺 DoctorAI-QA
 
 **Developed by:** syedazah777  
 **License:** Apache-2.0  
