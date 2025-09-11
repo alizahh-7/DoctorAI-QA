@@ -59,8 +59,8 @@ Run an interactive demo directly in **Colab** or via **Gradio**:
 2. Replace the prompt in the code with your own healthcare question. Example:  
 ```python
 question = "What are the early symptoms of diabetes?"
+```
 
----
 
 ## 📸 Screenshots / Demo
 
