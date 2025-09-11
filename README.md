@@ -71,3 +71,11 @@ Run an interactive demo directly in **Colab** or via **Gradio**:
 - [Unsloth](https://github.com/unslothai/unsloth) for the fine-tuning framework  
 - Hugging Face for **datasets and TRL support**  
 - Open-source community for GPT-OSS contributions
+
+---
+
+## Visuals
+
+<img width="1761" height="719" alt="Screenshot 2025-09-11 174035" src="https://github.com/user-attachments/assets/ced5d774-8000-410d-8935-f6f615e809cb" />
+<img width="1707" height="732" alt="Screenshot 2025-09-11 173704" src="https://github.com/user-attachments/assets/cbaa3e72-973a-441b-aafb-341dc27da5c8" />
+
